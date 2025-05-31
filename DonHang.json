@@ -1,0 +1,25 @@
+[
+    {
+        "Ng_Gui": {
+            "Tên": "Ok la",
+            "Địa chỉ": "12314",
+            "Thành phố": "An Giang",
+            "Điện thoại": "0123456789"
+        },
+        "Ng_Nhan": {
+            "Tên": "âf",
+            "Địa chỉ": "fafaf",
+            "Thành phố": "Bắc Giang",
+            "Điện thoại": "0123456789"
+        },
+        "Hang_Hoa": [
+            {
+                "Tên sản phẩm": "14323",
+                "Mã hàng hóa": "HH123",
+                "Số tiền": 12414134.0,
+                "Ngày gửi": "22/1/1223",
+                "Loại hàng hóa": "1231"
+            }
+        ]
+    }
+]
